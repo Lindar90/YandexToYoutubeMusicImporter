@@ -1,4 +1,4 @@
-# Import from Yandex Music to Youtube Music
+# Import music from Yandex Music to Youtube Music
 
 ```
 pip install -r requirements.txt
