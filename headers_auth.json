@@ -1,0 +1,10 @@
+{
+    "User-Agent": "PASTE_HERE",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Content-Type": "application/json",
+    "x-origin": "https://music.youtube.com",
+    "X-Youtube-Identity-Token": "PASTE_HERE",
+    "Authorization": "PASTE_HERE",
+    "Cookie": "PASTE_HERE"
+}
